@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic G. Wen"
+title                    : "Academic Guangwei Wen"
 title_separator          : "-"
 name                     : &name "Guangwei Wen"
 description              : &description "personal description"
